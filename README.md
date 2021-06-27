@@ -16,5 +16,8 @@ W. Avy a famous surfer would like to invest on a new business with you. This ana
  - For the lowest temperature, December is lower with 56 degrees farhenheit while June is 64 degrees. 
  - The highest temperature goes to the month of June with 85 degrees farhenheit and December with 83 degrees farhenheit. 
 
+## Summary
+Based on the outcome of the analysis-- June has the highest temperature in the year. The shop, particularly the ice cream shop would be in demand on that month due to hotter temperature. 
+
 
 
